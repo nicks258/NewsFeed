@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sumit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Sumit\Downloads\Compressed\Facebook Like FeedView1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a1dfe8ff643fb2a7856b833cb58c8c39f652ddc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sumit\Downloads\Compressed\Facebook Like FeedView1\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Sumit\Downloads\Compressed\Facebook Like FeedView1\app\build\intermediates\pre-dexed\debug\volley_e0e832018ab592e45c0fc0d2923d9ff4897701d8.jar" />
+    </item>
+
+</items>
